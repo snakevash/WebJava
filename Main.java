@@ -10,10 +10,10 @@ public class Main {
      */
     public static void main(String[] args) {
 
-        Options.DBURL = "jdbc:mysql://localhost:3306/blog";
-        Options.DBDriver = "com.mysql.jdbc.Driver";         // 驱动程序名
-        Options.DBUser = "root";
-        Options.DBPassword = "123456";
+//        Options.DBURL = "jdbc:mysql://localhost:3306/blog";
+//        Options.DBDriver = "com.mysql.jdbc.Driver";         // 驱动程序名
+//        Options.DBUser = "root";
+//        Options.DBPassword = "123456";
 
         Options.DEBUG = true;//开启debug模式
         Options.ParseLine = true;//打印每一次请求
